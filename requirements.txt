@@ -1,0 +1,19 @@
+# Manipulación de datos
+pandas
+numpy
+
+# Visualización
+plotly
+matplotlib
+seaborn
+
+# Estadísticas
+scipy
+
+# Machine Learning
+scikit-learn
+
+# Jupyter
+jupyter
+notebook
+ipykernel
